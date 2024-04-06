@@ -10,7 +10,7 @@ body {
     
     background: #EFEFEF;
 
-    color: #4E4958;
+    color: #6C6A71;
 }
 
 h1, 
@@ -147,17 +147,23 @@ fieldset legend {
 
 .col-3 {
     display: flex;
-    gap: 10px;
-    
+    gap: 10px;    
 }
 
 .col-3:first-of-type {
-    margin-bottom: 16px;
+    margin-bottom: 16px;   
+}
+
+.col-3 input[type="date"] {
+    width: 100%;
+}
+
+.col-3 .input-wrapper + .input-wrapper {
+    width: 50%;
 }
 
 .col-3 .input-wrapper:first-of-type {
-    margin-right: 22px;
-    width: 100%;
+    margin-right: 22px; 
 }
 
 input[type="date"]::-webkit-calendar-picker-indicator {
@@ -165,7 +171,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 }
 
   /* Remove o ícone de relógio em navegadores baseados em Firefox */
-  input[type="time"]::-moz-calendar-tool {
+input[type="time"]::-moz-calendar-tool {
     display: none;
 }
 
