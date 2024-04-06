@@ -66,7 +66,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-Você pode visualizar o layout desejado do desafio através [DESSE LINK] https://www.figma.com/file/odO5hdmXdWhkPp3wqkOxOe/Stage-03---Formul%C3%A1rio-intermedi%C3%A1rio-(Copy)?type=design&node-id=0-1&mode=design&t=lSQis0I2R9K3wxQ2-0. É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout desejado do desafio através <a href="https://www.figma.com/file/onR5CDabJmF38KJkY2O8OF/Stage-03---Formul%C3%A1rio-intermedi%C3%A1rio-(Copy)?type=design&mode=design&t=0hk0dMxGiWMqPIqS-0">DESSE LINK</a>. É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ---
 
