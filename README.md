@@ -26,7 +26,7 @@ Lembrando: tente se desafiar e não olhar a resposta mas, caso apareça alguma d
 Achou que acabaria por aqui? 👀 <br>
 <br>
 Temos um bônus pra você! 😍 💜 <br>
-Sabemos o quanto os nosso alunos curtem recriar um layout então temos **[mais um por aqui.](https://www.figma.com/file/fnZyJHs7eqNFAA7tUrKcsD/Stage-03---Formul%C3%A1rio-avan%C3%A7ado/duplicate)** <br>
+Sabemos o quanto os nosso alunos curtem recriar um layout então temos <a href="https://www.figma.com/file/fnZyJHs7eqNFAA7tUrKcsD/Stage-03---Formul%C3%A1rio-avan%C3%A7ado/duplicate">mais um por aqui.</a><br>
 Clicando no link, você encontra outra opção de formulário, um pouco mais complexa que o anterior.
 </p>
 
