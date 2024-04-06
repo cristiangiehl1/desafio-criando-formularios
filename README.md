@@ -22,6 +22,38 @@ Vai ser muito importante para o seu aprendizado rever e aplicar esses novos conc
 Lembrando: tente se desafiar e não olhar a resposta mas, caso apareça alguma dificuldade, você pode voltar nas aulas para relembrar algumas dicas!
 </p>
 
+<p align="justify">
+Achou que acabaria por aqui? 👀 <br>
+<br>
+Temos um bônus pra você! 😍 💜 <br>
+Sabemos o quanto os nosso alunos curtem recriar um layout então temos **[mais um por aqui.](https://www.figma.com/file/fnZyJHs7eqNFAA7tUrKcsD/Stage-03---Formul%C3%A1rio-avan%C3%A7ado/duplicate)** <br>
+Clicando no link, você encontra outra opção de formulário, um pouco mais complexa que o anterior.
+</p>
+
+<p align="justify">
+Nesse abordaremos:
+<br>
+<br>
+
+<ul>
+  <li>
+      Campo select;
+  </li>
+  <li>
+      Campo checkbox;
+  </li>
+  <li>
+      Imagem centralizada no header.
+  </li>
+</ul>
+<br>
+<br>
+Importante ressaltar: fique à vontade caso queira alterar as cores, adicionar mais campos, estilizar da sua maneira, viu? 💜
+</p>
+
+<p align="center">
+  <img alt="desafio corrigindo bugs" src="github/capa-extra.png" width="100%">
+</p>
 
 ## 🚀 Tecnologias
 
